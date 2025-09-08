@@ -11,3 +11,7 @@ It seems to orin NX and nano are pin to pin compatible.
 Just spent $767 on the orin NX 16gb ($500 ebay purchase) and another $250 on the orin nano developer kit. last one in stock. lucky me!
 ATNA40CU03-002 ATNA40CU03 14.0", took me awhile to find a screen that I want. 2880x1800 120hz oled 14" will do. Bryan's laptop is 13.3", so mine wont be quite as small. ($200)
 Bought wired keyboard/mouse ($15), Orin NANO dev kit has SD card only as storage (15) USB sd card reader ($8), bought DP to eDP off aliexpress, includes 40 pin cable ($40).
+
+9/7/2025 
+Going to make a road map of what I have to learn. 
+Landed on just starting to understand KiCAD first. Since everything is currently be shipped and will take awhile; I can get a head start on designing the PCB. Going through all the getting started documents today. 
