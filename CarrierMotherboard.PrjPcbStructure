@@ -1,9 +1,0 @@
-Record=TopLevelDocument|FileName=Audio.SchDoc|SheetNumber=8
-Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=Battery.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=COVER PAGE.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=DCDC.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=eDP.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=PCIE.SchDoc|SheetNumber=9
-Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=Power_Delivery.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=SoM.SchDoc|SheetNumber=2
