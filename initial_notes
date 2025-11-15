@@ -3,14 +3,11 @@ I want to build this because of Bryan. I saw his laptop video on LTT months ago;
 More importantly, in this world I need to stand out. What I am particularly passionate about is PC hardware. Building this laptop seems to be an incredible challenge, one that is long but one that is rewarding. 
 Bryan did the RK3588, I believe he did this to prove the point that an individual can make their own laptop. It is also cheaper than the OrinNX. I am doing the OrinNX because the RK3588 is already done. This will be harder because of the 10-12 layers needed for the PCB.
 It will be faster however. We know faster is cooler. Therefore, even if it takes a year, it'll be worth it. And more importantly, it will be mine. Mine own piece of tech! How satisfying. 
-I am a junior in computer engineering, I have minimal knowledge in coding if I am being honest, and even less for building something like this. I hope this to be done before I graduate in December 2026. Or, done at all.
+I am a senior in computer engineering, I hope this to be done before the new year; which sounds ambitious.
 
 It looks like theres no official NVIDIA dev kit for the Orin NX, just the nano and the agx. AGX is too big to fit into a nice slim laptop, nano.. not powerful enough. 
 It seems to orin NX and nano are pin to pin compatible. 
 
-Just spent $767 on the orin NX 16gb ($500 ebay purchase) and another $250 on the orin nano developer kit. last one in stock. lucky me!
-ATNA40CU03-002 ATNA40CU03 14.0", took me awhile to find a screen that I want. 2880x1800 120hz oled 14" will do. Bryan's laptop is 13.3", so mine wont be quite as small. ($200)
-Bought wired keyboard/mouse ($15), Orin NANO dev kit has SD card only as storage (15) USB sd card reader ($8), bought DP to eDP off aliexpress, includes 40 pin cable ($40).
 
 9/7/2025 
 Going to make a road map of what I have to learn. 
@@ -18,7 +15,7 @@ Landed on just starting to understand KiCAD first. Since everything is currently
 
 9/8/2025
 Finished the KiCAD tutorial. Successfully going from "Where the hell do I start?" to "What the hell now?". But progress is progress. My next step is to successfully implement basic designs of a motherboard into KiCAD.
-Understand more of PCB's in general. Not much else to do today. I believe this is my best bet while everything is in shipping.
+Understand more of PCB's in general. Not much else to do today. 
 Watching Rick Hartley's "How to achieve proper grounding". After this I will go through Dave Jones PCB Design tutorial. 
 9/9/2025
 Saving Rick's video until I can understand more about the terms being used, a lot was going over my head. Went through Dave Jones PCB design tutorial, today I will watch more Phil's Lab videos to turn online documents
