@@ -1,0 +1,129 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\CarrierMotherboard\CarrierMotherboard.PcbDoc
+Date     : 11/17/2025
+Time     : 10:05:27 PM
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (IsStitchingVia and InNet('GND')),((IsVia and (Not IsStitchingVia)) Or IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.13mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (InNet('SYS_IN1')),(InPadClass('All Pads'))
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.13mm) (Max=0.218mm) (Preferred=0.13mm) (InNetClass('eDP'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.167mm) (Max=0.25mm) (Preferred=0.167mm) (InNetClass('USB'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.711mm) (PreferredHoleWidth=0.35mm) (MinWidth=0.6mm) (MaxWidth=1.27mm) (PreferedWidth=0.6mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.1mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.17mm) (Max=3mm) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.16mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (InComponent('J301')),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.075mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (IsPad AND (HoleDiameter > 0)),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=-0.1mm) (IsVia),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+   Violation between Height Constraint: Component J701-TC2050-IDC-NL (52.149mm,118.892mm) on L1-CU Actual Height = 198.412mm
+Rule Violations :1
+
+Processing Rule : Supply Net(s)(InNet('3V3_VDRV'))
+Rule Violations :0
+
+Processing Rule : Supply Net(s)(InNet('5V_OUT'))
+Rule Violations :0
+
+Processing Rule : Supply Net(s)(InNet('SYS_IN'))
+Rule Violations :0
+
+Processing Rule : Supply Net(s)(InNet('3V3_M2'))
+Rule Violations :0
+
+Processing Rule : Supply Net(s)(InNet('6V0_SW'))
+Rule Violations :0
+
+Processing Rule : Supply Net(s)(InNet('1V8_LDO'))
+Rule Violations :0
+
+Processing Rule : Supply Net(s)(InNet('+5'))
+Rule Violations :0
+
+Waived Violations Of Rule : Clearance Constraint (Gap=0.13mm) (All),(All)
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad J701-1(52.149mm,118.892mm) on L1-CU And Region (0 hole(s)) Keep-Out Layer Waived by EVAN KING at 11/14/2025 10:24:19 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad J701-10(50.879mm,118.892mm) on L1-CU And Region (0 hole(s)) Keep-Out Layer Waived by EVAN KING at 11/14/2025 10:24:11 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad J701-2(52.149mm,120.162mm) on L1-CU And Region (0 hole(s)) Keep-Out Layer Waived by EVAN KING at 11/14/2025 10:24:27 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad J701-3(52.149mm,121.432mm) on L1-CU And Region (0 hole(s)) Keep-Out Layer Waived by EVAN KING at 11/14/2025 10:23:54 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad J701-4(52.149mm,122.702mm) on L1-CU And Region (0 hole(s)) Keep-Out Layer Waived by EVAN KING at 11/14/2025 10:24:45 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad J701-5(52.149mm,123.972mm) on L1-CU And Region (0 hole(s)) Keep-Out Layer Waived by EVAN KING at 11/14/2025 10:24:48 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad J701-6(50.879mm,123.972mm) on L1-CU And Region (0 hole(s)) Keep-Out Layer Waived by EVAN KING at 11/14/2025 10:24:52 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad J701-7(50.879mm,122.702mm) on L1-CU And Region (0 hole(s)) Keep-Out Layer Waived by EVAN KING at 11/14/2025 10:24:41 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad J701-8(50.879mm,121.432mm) on L1-CU And Region (0 hole(s)) Keep-Out Layer Waived by EVAN KING at 11/14/2025 10:24:38 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad J701-9(50.879mm,120.162mm) on L1-CU And Region (0 hole(s)) Keep-Out Layer Waived by EVAN KING at 11/14/2025 10:24:30 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Region (0 hole(s)) Keep-Out Layer And Track (52.149mm,120.162mm)(53.186mm,120.162mm) on L1-CU Waived by EVAN KING at 11/14/2025 10:25:14 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Region (0 hole(s)) Keep-Out Layer And Track (52.149mm,121.432mm)(53.396mm,121.432mm) on L1-CU Waived by EVAN KING at 11/14/2025 10:25:21 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Region (0 hole(s)) Keep-Out Layer And Track (52.149mm,122.702mm)(53.345mm,122.702mm) on L1-CU Waived by EVAN KING at 11/14/2025 10:25:26 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Region (0 hole(s)) Keep-Out Layer And Track (52.208mm,118.833mm)(52.22mm,118.821mm) on L1-CU Waived by EVAN KING at 11/14/2025 10:26:15 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Region (0 hole(s)) Keep-Out Layer And Track (52.208mm,118.833mm)(53.383mm,118.833mm) on L1-CU Waived by EVAN KING at 11/14/2025 10:25:36 PMi don't see the problem :D
+   Waived Violation between Clearance Constraint: (Collision < 0.13mm) Between Region (0 hole(s)) Keep-Out Layer And Track (52.22mm,118.821mm)(52.578mm,118.821mm) on L1-CU Waived by EVAN KING at 11/14/2025 10:25:33 PMi don't see the problem :D
+Waived Violations :16
+
+Waived Violations Of Rule : Net Antennae (Tolerance=0mm) (All)
+   Waived Violation between Net Antennae: Via (111.938mm,79.451mm) from L1-CU to L8-CU Waived by EVAN KING at 11/14/2025 6:46:07 PMi don't see the problem :D
+   Waived Violation between Net Antennae: Via (160.2mm,76.2mm) from L1-CU to L8-CU Waived by EVAN KING at 11/17/2025 3:32:26 PM
+   Waived Violation between Net Antennae: Via (35.45mm,83.387mm) from L1-CU to L8-CU Waived by EVAN KING at 11/14/2025 6:46:19 PMi don't see the problem :D
+Waived Violations :3
+
+
+Violations Detected : 1
+Waived Violations : 19
+PCB Health Issues : 0
+Time Elapsed        : 00:00:04
