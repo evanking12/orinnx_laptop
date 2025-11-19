@@ -5,6 +5,20 @@ Status:  Revision A — Routing Complete, Pre-Fabrication
 Tech Stack: Altium Designer • Jetson Linux • dtc/dtcpp • LPDDR5 SoM • eDP • M.2 • DCDC/PDN
 
 
+Top view:
+
+![Orin NX Carrier Top](docs/images/orin_nx_top.png)
+
+3D view:
+
+![Orin NX Carrier 3D](docs/images/orin_nx_3d.png)
+
+### Schematics
+
+Full schematics (PDF):  
+[Download here](docs/orin_nx_schematics.pdf)
+
+
     **Overview**
 This repository contains the full schematic and 8-layer PCB layout of a custom laptop motherboard designed around the NVIDIA Jetson Orin NX System-on-Module.
 
